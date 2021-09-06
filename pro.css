@@ -112,7 +112,7 @@ li:hover {
         padding: 4rem;
         max-width: 30vw;
         position: relative;
-        top:-15rem;
+        top:-10rem;
         float: left;
         border-radius: 15rem;
         }
@@ -146,15 +146,14 @@ li:hover {
         padding: 2rem;
 }
     #heading2{
-        margin-left: -12rem;
-        font-size: 50px;
-        top: 6rem;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color: rgb(0, 0, 0);
-        z-index: -1;
-        text-shadow: 1px 1px cyan;
-        position: sticky;
-        padding: 2rem;
+        margin-left: 14rem;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    z-index: -1;
+    text-shadow: 1px 1px cyan;
+    position: sticky;
+    padding: 6rem;
 }
 *, :after, :before {
     box-sizing: border-box;
@@ -166,9 +165,10 @@ li:hover {
     background-color: rgb(250, 219, 224);
     border-radius: 3rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 1rem;
+    padding: 4rem;
     font-size: 18px;
     }
+    
     .box3{
         display: flex;
     background-color: rgb(202, 240, 245);
