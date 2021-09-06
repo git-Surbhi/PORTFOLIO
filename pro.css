@@ -3,7 +3,7 @@ body{
 }
 
 hr{
-    width:48rem;
+    width:35rem;
 }
 
 #opac {
@@ -299,6 +299,7 @@ li:hover {
         #name2 {
             margin-left: 12%;
             font-size: 35px;}
+            
             hr {
                 width: 22rem;
             }
